@@ -1,3 +1,5 @@
+![KPLRS Linked-In Banner Personal](https://github.com/user-attachments/assets/92aad727-7844-4158-a0ba-56b5ee1d0c4c)
+
 # 👋 Hello (World), I'm Marcel Panknin!
 
 **💻 Full-Stack Developer | 🚀 Tech Enthusiast | 🧠 Idea Architect**
@@ -38,7 +40,7 @@ A comprehensive platform designed to empower employers and insurance brokers wit
 
 ## 🌐 Connect with Me
 - 💼 **LinkedIn:** [Marcel Panknin](https://www.linkedin.com/in/marcel-panknin-019111264/)
--  **𝕏:** [@panknin_marcel]([https://twitter.com/your-twitter/](https://x.com/panknin_marcel))
+-  **𝕏:** [@panknin_marcel](https://x.com/panknin_marcel)
 - 📧 **Email:** [marcel.panknin@kplrs.com](mailto:marcel.panknin@kplrs.com)
 
 ---
